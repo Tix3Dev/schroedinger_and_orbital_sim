@@ -1,6 +1,6 @@
 # Simulation of the Schrödinger equation and atomic orbitals
 
-The code for this project is based on [this](https://ben.land/post/2022/03/09/quantum-mechanics-simulation/) and [this](https://ben.land/post/2022/03/17/complex-wavefunction-visualization/) tutorial. As the repository did not provide all of the code necessary, this repository offers a completed, slightly refined version.
+The code for this project is based on [this](https://ben.land/post/2022/03/09/quantum-mechanics-simulation/) and [this](https://ben.land/post/2022/03/17/complex-wavefunction-visualization/) tutorial. As the tutorials did not provide all of the code necessary to replicate all the outputs, this repository offers a completed, slightly refined version.
 
 ## Results
 
